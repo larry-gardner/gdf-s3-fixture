@@ -4,3 +4,5 @@ Disposable fixture repository for GDF-MVP-01C S3: the model-free live check of t
 publication path (a draft pull request, CI at the exact head, and the CI token's denials). It
 contains no personal or proprietary content, holds no credential, and will be archived after the
 check.
+
+Setup bootstrap: this commit's pull request binds the required `test` check to GitHub Actions.
